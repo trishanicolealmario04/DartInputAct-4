@@ -1,0 +1,24 @@
+import 'dart:io';
+
+void main() {
+    print("Trisha");
+    String? name = stdin.readLinesync();
+    print("Trisha ${name}");
+
+  if(name.isNotEmpty) {
+    print("Registration Successful");
+  } else {
+    print print("Trisha");
+  }
+}
+
+Output:
+
+== User Registration ==
+Enter your First name: Trisha
+Enter your Last name: Almario
+Enter your Email address: trishanicolealmario.04@gmail.com
+
+== Registration Summary ==
+Name: Trisha Almario
+Email: trishanicolealmario.04@gmail.com
