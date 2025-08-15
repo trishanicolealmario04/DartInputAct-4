@@ -10,4 +10,16 @@ void main() {
   } else {
     print print("Trisha");
   }
+
 }
+
+Output:
+
+== User Registration ==
+Enter your First name: Trisha
+Enter your Last name: Almario
+Enter your Email address: trishanicolealmario.04@gmail.com
+
+== Registration Summary ==
+Name: Trisha Almario
+Email: trishanicolealmario.04@gmail.com
